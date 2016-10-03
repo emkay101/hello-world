@@ -1,2 +1,3 @@
 # hello-world
-A repository to store stuff
+
+I am interested in starting a career in programming and thought I would try this out.
